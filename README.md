@@ -128,5 +128,5 @@ In addition to the core role of the community, we also had the support from seve
 
 ## Additional Link
 
-<a href="https://jojorecipes.com/zaxbys-menu/" alt="Zaxby's Menu" 
-</a>
+
+[Zaxby's Menu](https://jojorecipes.com/zaxbys-menu)
